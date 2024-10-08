@@ -1,4 +1,4 @@
-# A-0524 HTML Exercise: Creating a Personal Webpage
+# Web 1 - Exercise 2: Personal Webpage
 
 ## Objective
 
