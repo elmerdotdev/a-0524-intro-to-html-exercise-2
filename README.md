@@ -26,7 +26,7 @@ Follow the steps below to complete the exercise. You are expected to spend aroun
 ### Step 4: Add a Navigation Menu
 
 1. Below the heading in the `<header>`, add a navigation menu using the `<nav>` element.
-2. Inside the `<nav>`, create an unordered list (`<ul>`) with links (`<a>`) to different sections of your webpage. For now, use `#` as the href value. For the links, you can have "Home", "About", "Contact" links in your navigation.
+2. Inside the `<nav>`, create an unordered list (`<ul>`) with links (`<a>`) to different sections of your webpage. Give each section a unique id later and use the id inside your `href` attributes. For example, `<a href="#introduction">Introduction</a>`.
 
 ### Step 5: Add a Main Section
 
